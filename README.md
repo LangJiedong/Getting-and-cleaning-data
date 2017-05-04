@@ -1,5 +1,5 @@
-# Getting-and-cleaning-data
-##introduction of the description
+# Getting-and-cleaning-data files
+introduction of the description
 
 The code takes for granted all the data is present in the same folder, un-compressed and without names altered.
 
