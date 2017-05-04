@@ -1,5 +1,6 @@
 # Getting-and-cleaning-data
 ##introduction of the description
+
 The code takes for granted all the data is present in the same folder, un-compressed and without names altered.
 
 CodeBook.md describes the variables, the data, and any transformations or work that was performed to clean up the data.
